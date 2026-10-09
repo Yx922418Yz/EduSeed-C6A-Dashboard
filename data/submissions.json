@@ -1,0 +1,1880 @@
+{
+  "meta": {
+    "generated_at": "2026-10-09T18:06:41",
+    "course": "Elite20 提交数据仪表盘",
+    "data_source_note": "本数据集包含两类记录：\n1) is_real_liyaxuan=true：李亚轩本人真实提交，扫描自桌面 C:\\Users\\lenovo\\Desktop\\提交挑战 下的 C2A/C2G/C4 文件夹；\n2) is_demo_data=true：同班同学演示样例数据，人物姓名与提交情况均为虚构，仅用于演示仪表盘的筛选、高亮、统计功能，不代表任何真实同学的提交状态。",
+    "challenges": {
+      "C2A": {
+        "title": "MetaCal-Shift 认知校准",
+        "required": [
+          "方案设计",
+          "AI日志",
+          "AAR复盘",
+          "拿来说明",
+          "核心产物"
+        ]
+      },
+      "C2G": {
+        "title": "ParameterGolf 参数高尔夫",
+        "required": [
+          "方案设计",
+          "AI日志",
+          "AAR复盘",
+          "拿来说明",
+          "技术报告",
+          "提交包"
+        ]
+      },
+      "C4A": {
+        "title": "技能评审器",
+        "required": [
+          "技能包",
+          "方案设计",
+          "AI日志",
+          "教学说明",
+          "拿来说明"
+        ]
+      },
+      "C4B": {
+        "title": "公众号文章生成",
+        "required": [
+          "技能包",
+          "方案设计",
+          "AI日志",
+          "教学说明",
+          "拿来说明",
+          "输出文章"
+        ]
+      },
+      "C4C": {
+        "title": "作业自动求解",
+        "required": [
+          "技能包",
+          "方案设计",
+          "AI日志",
+          "教学说明",
+          "拿来说明"
+        ]
+      },
+      "C4D": {
+        "title": "本地大模型 Agent",
+        "required": [
+          "技能包",
+          "方案设计",
+          "AI日志",
+          "教学说明",
+          "拿来说明",
+          "验证报告"
+        ]
+      },
+      "C5": {
+        "title": "GitHub 仓库",
+        "required": [
+          "仓库链接",
+          "README",
+          "AI日志"
+        ]
+      },
+      "C6": {
+        "title": "Web Application",
+        "required": [
+          "线上URL",
+          "仓库链接",
+          "AI日志",
+          "拿来说明",
+          "演示截图"
+        ]
+      }
+    }
+  },
+  "records": [
+    {
+      "student": {
+        "name": "李亚轩",
+        "name_pinyin": "LiYaxuan",
+        "is_real_liyaxuan": true
+      },
+      "challenge": "C2A",
+      "challenge_title": "MetaCal-Shift 认知校准",
+      "submitted_at": "2026-10-03T13:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "核心产物",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": false,
+      "note": "真实提交：桌面 C2A_MetaCal-Shift 文件夹扫描"
+    },
+    {
+      "student": {
+        "name": "李亚轩",
+        "name_pinyin": "LiYaxuan",
+        "is_real_liyaxuan": true
+      },
+      "challenge": "C2G",
+      "challenge_title": "ParameterGolf 参数高尔夫",
+      "submitted_at": "2026-10-03T14:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "技术报告",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "提交包",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": false,
+      "note": "真实提交：桌面 C2G_ParameterGolf 文件夹扫描"
+    },
+    {
+      "student": {
+        "name": "李亚轩",
+        "name_pinyin": "LiYaxuan",
+        "is_real_liyaxuan": true
+      },
+      "challenge": "C4A",
+      "challenge_title": "技能评审器",
+      "submitted_at": "2026-10-04T10:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": false,
+      "note": "真实提交：桌面 C4_技能分享与传播/01_C4A_技能评审 扫描"
+    },
+    {
+      "student": {
+        "name": "李亚轩",
+        "name_pinyin": "LiYaxuan",
+        "is_real_liyaxuan": true
+      },
+      "challenge": "C4B",
+      "challenge_title": "公众号文章生成",
+      "submitted_at": "2026-10-04T10:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "输出文章",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": false,
+      "note": "真实提交：桌面 C4_技能分享与传播/02_C4B_公众号发布 扫描"
+    },
+    {
+      "student": {
+        "name": "李亚轩",
+        "name_pinyin": "LiYaxuan",
+        "is_real_liyaxuan": true
+      },
+      "challenge": "C4C",
+      "challenge_title": "作业自动求解",
+      "submitted_at": "2026-10-04T10:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": false,
+      "note": "真实提交：桌面 C4_技能分享与传播/03_C4C_作业求解 扫描"
+    },
+    {
+      "student": {
+        "name": "李亚轩",
+        "name_pinyin": "LiYaxuan",
+        "is_real_liyaxuan": true
+      },
+      "challenge": "C4D",
+      "challenge_title": "本地大模型 Agent",
+      "submitted_at": "2026-10-04T10:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "验证报告",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": false,
+      "note": "真实提交：桌面 C4_技能分享与传播/04_C4D_本地Agent 扫描"
+    },
+    {
+      "student": {
+        "name": "王小明",
+        "name_pinyin": "WangXiaoming",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C2A",
+      "challenge_title": "MetaCal-Shift 认知校准",
+      "submitted_at": "2026-09-23T10:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "核心产物",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "王小明",
+        "name_pinyin": "WangXiaoming",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C2G",
+      "challenge_title": "ParameterGolf 参数高尔夫",
+      "submitted_at": "2026-09-23T10:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "技术报告",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "提交包",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.83,
+      "missing": [
+        "AAR复盘"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "王小明",
+        "name_pinyin": "WangXiaoming",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4A",
+      "challenge_title": "技能评审器",
+      "submitted_at": "2026-09-23T10:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "王小明",
+        "name_pinyin": "WangXiaoming",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4B",
+      "challenge_title": "公众号文章生成",
+      "submitted_at": "2026-09-23T10:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "输出文章",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.83,
+      "missing": [
+        "AI日志"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "王小明",
+        "name_pinyin": "WangXiaoming",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C5",
+      "challenge_title": "GitHub 仓库",
+      "submitted_at": "2026-09-22T10:00:00+08:00",
+      "files": [
+        {
+          "item": "仓库链接",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "README",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "李思颖",
+        "name_pinyin": "LiSiying",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C2A",
+      "challenge_title": "MetaCal-Shift 认知校准",
+      "submitted_at": "2026-09-26T11:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "核心产物",
+          "required": true,
+          "present": false
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.8,
+      "missing": [
+        "核心产物"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "李思颖",
+        "name_pinyin": "LiSiying",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4B",
+      "challenge_title": "公众号文章生成",
+      "submitted_at": "2026-09-26T11:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "输出文章",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.83,
+      "missing": [
+        "教学说明"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "李思颖",
+        "name_pinyin": "LiSiying",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4C",
+      "challenge_title": "作业自动求解",
+      "submitted_at": "2026-09-26T11:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "李思颖",
+        "name_pinyin": "LiSiying",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C5",
+      "challenge_title": "GitHub 仓库",
+      "submitted_at": "2026-09-25T11:00:00+08:00",
+      "files": [
+        {
+          "item": "仓库链接",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "README",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": false
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.67,
+      "missing": [
+        "AI日志"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "张子涵",
+        "name_pinyin": "ZhangZihan",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C2G",
+      "challenge_title": "ParameterGolf 参数高尔夫",
+      "submitted_at": "2026-09-29T12:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "技术报告",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "提交包",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.83,
+      "missing": [
+        "技术报告"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "张子涵",
+        "name_pinyin": "ZhangZihan",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4A",
+      "challenge_title": "技能评审器",
+      "submitted_at": "2026-09-29T12:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.8,
+      "missing": [
+        "方案设计"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "张子涵",
+        "name_pinyin": "ZhangZihan",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4D",
+      "challenge_title": "本地大模型 Agent",
+      "submitted_at": "2026-09-29T12:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "验证报告",
+          "required": true,
+          "present": false
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.83,
+      "missing": [
+        "验证报告"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "张子涵",
+        "name_pinyin": "ZhangZihan",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C5",
+      "challenge_title": "GitHub 仓库",
+      "submitted_at": "2026-09-28T12:00:00+08:00",
+      "files": [
+        {
+          "item": "仓库链接",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "README",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "陈雨桐",
+        "name_pinyin": "ChenYutong",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C2A",
+      "challenge_title": "MetaCal-Shift 认知校准",
+      "submitted_at": "2026-10-02T13:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "核心产物",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "陈雨桐",
+        "name_pinyin": "ChenYutong",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C2G",
+      "challenge_title": "ParameterGolf 参数高尔夫",
+      "submitted_at": "2026-10-02T13:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "技术报告",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "提交包",
+          "required": true,
+          "present": false
+        }
+      ],
+      "status": "missing",
+      "completeness": 0.17,
+      "missing": [
+        "AI日志",
+        "AAR复盘",
+        "拿来说明",
+        "技术报告",
+        "提交包"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "陈雨桐",
+        "name_pinyin": "ChenYutong",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4B",
+      "challenge_title": "公众号文章生成",
+      "submitted_at": "2026-10-02T13:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "输出文章",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "陈雨桐",
+        "name_pinyin": "ChenYutong",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C6",
+      "challenge_title": "Web Application",
+      "submitted_at": "2026-10-01T13:00:00+08:00",
+      "files": [
+        {
+          "item": "线上URL",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "仓库链接",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "演示截图",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "刘浩然",
+        "name_pinyin": "LiuHaoran",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4C",
+      "challenge_title": "作业自动求解",
+      "submitted_at": "2026-10-05T14:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "刘浩然",
+        "name_pinyin": "LiuHaoran",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4D",
+      "challenge_title": "本地大模型 Agent",
+      "submitted_at": "2026-10-05T14:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "验证报告",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.83,
+      "missing": [
+        "AI日志"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "刘浩然",
+        "name_pinyin": "LiuHaoran",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C5",
+      "challenge_title": "GitHub 仓库",
+      "submitted_at": "2026-10-04T14:00:00+08:00",
+      "files": [
+        {
+          "item": "仓库链接",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "README",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.67,
+      "missing": [
+        "README"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "赵欣怡",
+        "name_pinyin": "ZhaoXinyi",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C2A",
+      "challenge_title": "MetaCal-Shift 认知校准",
+      "submitted_at": "2026-10-08T15:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "核心产物",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.8,
+      "missing": [
+        "AAR复盘"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "赵欣怡",
+        "name_pinyin": "ZhaoXinyi",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4A",
+      "challenge_title": "技能评审器",
+      "submitted_at": "2026-10-08T15:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": false
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.8,
+      "missing": [
+        "拿来说明"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "赵欣怡",
+        "name_pinyin": "ZhaoXinyi",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4B",
+      "challenge_title": "公众号文章生成",
+      "submitted_at": "2026-10-08T15:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "输出文章",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.83,
+      "missing": [
+        "技能包"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "孙嘉怡",
+        "name_pinyin": "SunJiayi",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C2G",
+      "challenge_title": "ParameterGolf 参数高尔夫",
+      "submitted_at": "2026-10-11T16:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "技术报告",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "提交包",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "孙嘉怡",
+        "name_pinyin": "SunJiayi",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4C",
+      "challenge_title": "作业自动求解",
+      "submitted_at": "2026-10-11T16:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.6,
+      "missing": [
+        "方案设计",
+        "教学说明"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "孙嘉怡",
+        "name_pinyin": "SunJiayi",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C5",
+      "challenge_title": "GitHub 仓库",
+      "submitted_at": "2026-10-10T16:00:00+08:00",
+      "files": [
+        {
+          "item": "仓库链接",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "README",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "孙嘉怡",
+        "name_pinyin": "SunJiayi",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C6",
+      "challenge_title": "Web Application",
+      "submitted_at": "2026-10-10T16:00:00+08:00",
+      "files": [
+        {
+          "item": "线上URL",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "仓库链接",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "演示截图",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.8,
+      "missing": [
+        "AI日志"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "周宇航",
+        "name_pinyin": "ZhouYuhang",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4A",
+      "challenge_title": "技能评审器",
+      "submitted_at": "2026-10-14T17:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "周宇航",
+        "name_pinyin": "ZhouYuhang",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4D",
+      "challenge_title": "本地大模型 Agent",
+      "submitted_at": "2026-10-14T17:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "验证报告",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "吴梦琪",
+        "name_pinyin": "WuMengqi",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C2A",
+      "challenge_title": "MetaCal-Shift 认知校准",
+      "submitted_at": "2026-10-17T10:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "核心产物",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.6,
+      "missing": [
+        "AI日志",
+        "AAR复盘"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "吴梦琪",
+        "name_pinyin": "WuMengqi",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4B",
+      "challenge_title": "公众号文章生成",
+      "submitted_at": "2026-10-17T10:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "输出文章",
+          "required": true,
+          "present": false
+        }
+      ],
+      "status": "partial",
+      "completeness": 0.83,
+      "missing": [
+        "输出文章"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "吴梦琪",
+        "name_pinyin": "WuMengqi",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C5",
+      "challenge_title": "GitHub 仓库",
+      "submitted_at": "2026-10-16T10:00:00+08:00",
+      "files": [
+        {
+          "item": "仓库链接",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "README",
+          "required": true,
+          "present": false
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": false
+        }
+      ],
+      "status": "missing",
+      "completeness": 0.0,
+      "missing": [
+        "仓库链接",
+        "README",
+        "AI日志"
+      ],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "郑凯文",
+        "name_pinyin": "ZhengKaiwen",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C2G",
+      "challenge_title": "ParameterGolf 参数高尔夫",
+      "submitted_at": "2026-10-20T11:00:00+08:00",
+      "files": [
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AAR复盘",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "技术报告",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "提交包",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "郑凯文",
+        "name_pinyin": "ZhengKaiwen",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C4C",
+      "challenge_title": "作业自动求解",
+      "submitted_at": "2026-10-20T11:00:00+08:00",
+      "files": [
+        {
+          "item": "技能包",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "方案设计",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "教学说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    },
+    {
+      "student": {
+        "name": "郑凯文",
+        "name_pinyin": "ZhengKaiwen",
+        "is_real_liyaxuan": false
+      },
+      "challenge": "C6",
+      "challenge_title": "Web Application",
+      "submitted_at": "2026-10-19T11:00:00+08:00",
+      "files": [
+        {
+          "item": "线上URL",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "仓库链接",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "AI日志",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "拿来说明",
+          "required": true,
+          "present": true
+        },
+        {
+          "item": "演示截图",
+          "required": true,
+          "present": true
+        }
+      ],
+      "status": "complete",
+      "completeness": 1.0,
+      "missing": [],
+      "is_demo_data": true,
+      "note": "演示样例数据：虚构同学，仅用于仪表盘功能演示"
+    }
+  ]
+}
